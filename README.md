@@ -1,4 +1,4 @@
-# Sudoku
+# Sudoku Solver
 
 This program solves a given Sudoku puzzle and prints out the solution.
 If there are no solutions to the puzzle, it prints "No solutions".
